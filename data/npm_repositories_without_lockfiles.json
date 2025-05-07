@@ -1,0 +1,1658 @@
+{
+  "ngocjohn/lunar-phase-card": {
+    "url": "https://api.github.com/repos/ngocjohn/lunar-phase-card",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 40
+  },
+  "nats-io/nats.js": {
+    "url": "https://api.github.com/repos/nats-io/nats.js",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "ngocjohn/vehicle-info-card": {
+    "url": "https://api.github.com/repos/ngocjohn/vehicle-info-card",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 43
+  },
+  "Fankouzu/solana-basic-ui": {
+    "url": "https://api.github.com/repos/Fankouzu/solana-basic-ui",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "project-fika/Fika-Server": {
+    "url": "https://api.github.com/repos/project-fika/Fika-Server",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 10
+  },
+  "KarinJS/Karin": {
+    "url": "https://api.github.com/repos/KarinJS/Karin",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 11
+  },
+  "lobehub/lobe-icons": {
+    "url": "https://api.github.com/repos/lobehub/lobe-icons",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 49
+  },
+  "AstraExt/astra-monitor": {
+    "url": "https://api.github.com/repos/AstraExt/astra-monitor",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "nizzyabi/platform": {
+    "url": "https://api.github.com/repos/nizzyabi/platform",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 109
+  },
+  "googleapis/nodejs-vertexai": {
+    "url": "https://api.github.com/repos/googleapis/nodejs-vertexai",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 12
+  },
+  "pilcrowonpaper/arctic": {
+    "url": "https://api.github.com/repos/pilcrowonpaper/arctic",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 11
+  },
+  "LLOneBot/LLOneBot": {
+    "url": "https://api.github.com/repos/LLOneBot/LLOneBot",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 25
+  },
+  "citrineos/citrineos-core": {
+    "url": "https://api.github.com/repos/citrineos/citrineos-core",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 9
+  },
+  "difizen/libro": {
+    "url": "https://api.github.com/repos/difizen/libro",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 45
+  },
+  "lobehub/lobe-chat-agents": {
+    "url": "https://api.github.com/repos/lobehub/lobe-chat-agents",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 22
+  },
+  "lobehub/lobe-chat-plugins": {
+    "url": "https://api.github.com/repos/lobehub/lobe-chat-plugins",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 23
+  },
+  "EvolutionAPI/evolution-api": {
+    "url": "https://api.github.com/repos/EvolutionAPI/evolution-api",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 69
+  },
+  "digital-go-jp/abr-geocoder": {
+    "url": "https://api.github.com/repos/digital-go-jp/abr-geocoder",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 46
+  },
+  "lobehub/lobe-ui": {
+    "url": "https://api.github.com/repos/lobehub/lobe-ui",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 96
+  },
+  "lobehub/lobe-cli-toolbox": {
+    "url": "https://api.github.com/repos/lobehub/lobe-cli-toolbox",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 28
+  },
+  "aws-observability/cdk-aws-observability-accelerator": {
+    "url": "https://api.github.com/repos/aws-observability/cdk-aws-observability-accelerator",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 20
+  },
+  "cockpit-project/cockpit-files": {
+    "url": "https://api.github.com/repos/cockpit-project/cockpit-files",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 45
+  },
+  "get-convex/convex-js": {
+    "url": "https://api.github.com/repos/get-convex/convex-js",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 81
+  },
+  "unit-mesh/auto-dev-vscode": {
+    "url": "https://api.github.com/repos/unit-mesh/auto-dev-vscode",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 61
+  },
+  "2004Scape/Server": {
+    "url": "https://api.github.com/repos/2004Scape/Server",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 45
+  },
+  "Shopify/shopify-app-template-remix": {
+    "url": "https://api.github.com/repos/Shopify/shopify-app-template-remix",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 28
+  },
+  "AztecProtocol/noir-starter": {
+    "url": "https://api.github.com/repos/AztecProtocol/noir-starter",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "reddit/devvit": {
+    "url": "https://api.github.com/repos/reddit/devvit",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 31
+  },
+  "smallcloudai/refact-vscode": {
+    "url": "https://api.github.com/repos/smallcloudai/refact-vscode",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 24
+  },
+  "nostr-dev-kit/ndk": {
+    "url": "https://api.github.com/repos/nostr-dev-kit/ndk",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 14
+  },
+  "slipx06/sunsynk-power-flow-card": {
+    "url": "https://api.github.com/repos/slipx06/sunsynk-power-flow-card",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 32
+  },
+  "eleme/morjs": {
+    "url": "https://api.github.com/repos/eleme/morjs",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 28
+  },
+  "honojs/starter": {
+    "url": "https://api.github.com/repos/honojs/starter",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "ant-design/antd-style": {
+    "url": "https://api.github.com/repos/ant-design/antd-style",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 65
+  },
+  "neo4j/cypher-builder": {
+    "url": "https://api.github.com/repos/neo4j/cypher-builder",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 19
+  },
+  "code-chat-br/whatsapp-api": {
+    "url": "https://api.github.com/repos/code-chat-br/whatsapp-api",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 59
+  },
+  "Tomato6966/lavalink-client": {
+    "url": "https://api.github.com/repos/Tomato6966/lavalink-client",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 11
+  },
+  "ipfs/helia": {
+    "url": "https://api.github.com/repos/ipfs/helia",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "CesiumGS/3d-tiles-tools": {
+    "url": "https://api.github.com/repos/CesiumGS/3d-tiles-tools",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 37
+  },
+  "theme-shoka-x/hexo-theme-shokaX": {
+    "url": "https://api.github.com/repos/theme-shoka-x/hexo-theme-shokaX",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 36
+  },
+  "ClickHouse/clickhouse-js": {
+    "url": "https://api.github.com/repos/ClickHouse/clickhouse-js",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 45
+  },
+  "honojs/website": {
+    "url": "https://api.github.com/repos/honojs/website",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 9
+  },
+  "satorijs/satori": {
+    "url": "https://api.github.com/repos/satorijs/satori",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 12
+  },
+  "facebook/memlab": {
+    "url": "https://api.github.com/repos/facebook/memlab",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 17
+  },
+  "consumet/consumet.ts": {
+    "url": "https://api.github.com/repos/consumet/consumet.ts",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 24
+  },
+  "consumet/api.consumet.org": {
+    "url": "https://api.github.com/repos/consumet/api.consumet.org",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 16
+  },
+  "ota-meshi/eslint-plugin-astro": {
+    "url": "https://api.github.com/repos/ota-meshi/eslint-plugin-astro",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 70
+  },
+  "galacean/engine-toolkit": {
+    "url": "https://api.github.com/repos/galacean/engine-toolkit",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 35
+  },
+  "laravel/vite-plugin": {
+    "url": "https://api.github.com/repos/laravel/vite-plugin",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 11
+  },
+  "samchon/typia": {
+    "url": "https://api.github.com/repos/samchon/typia",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 28
+  },
+  "daily-co/daily-react": {
+    "url": "https://api.github.com/repos/daily-co/daily-react",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 37
+  },
+  "nhaouari/obsidian-textgenerator-plugin": {
+    "url": "https://api.github.com/repos/nhaouari/obsidian-textgenerator-plugin",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 109
+  },
+  "ant-design/ant-design-mini": {
+    "url": "https://api.github.com/repos/ant-design/ant-design-mini",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 99
+  },
+  "n-ce/ytify": {
+    "url": "https://api.github.com/repos/n-ce/ytify",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 13
+  },
+  "kingdee/kdesign": {
+    "url": "https://api.github.com/repos/kingdee/kdesign",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 150
+  },
+  "ant-design/cssinjs": {
+    "url": "https://api.github.com/repos/ant-design/cssinjs",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 37
+  },
+  "Tencent/tdesign-mobile-react": {
+    "url": "https://api.github.com/repos/Tencent/tdesign-mobile-react",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 98
+  },
+  "Anarios/return-youtube-dislike": {
+    "url": "https://api.github.com/repos/Anarios/return-youtube-dislike",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 14
+  },
+  "RevenueCat/purchases-capacitor": {
+    "url": "https://api.github.com/repos/RevenueCat/purchases-capacitor",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 14
+  },
+  "electron-vite/electron-vite-react": {
+    "url": "https://api.github.com/repos/electron-vite/electron-vite-react",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 18
+  },
+  "remotely-save/remotely-save": {
+    "url": "https://api.github.com/repos/remotely-save/remotely-save",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 74
+  },
+  "datalayer/jupyter-ui": {
+    "url": "https://api.github.com/repos/datalayer/jupyter-ui",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 19
+  },
+  "Wingysam/Christmas-Community": {
+    "url": "https://api.github.com/repos/Wingysam/Christmas-Community",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 43
+  },
+  "appujet/lavamusic": {
+    "url": "https://api.github.com/repos/appujet/lavamusic",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 32
+  },
+  "cnpm/cnpmcore": {
+    "url": "https://api.github.com/repos/cnpm/cnpmcore",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 68
+  },
+  "NativeScript/firebase": {
+    "url": "https://api.github.com/repos/NativeScript/firebase",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 26
+  },
+  "uiwjs/react-color": {
+    "url": "https://api.github.com/repos/uiwjs/react-color",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 17
+  },
+  "rive-app/rive-react": {
+    "url": "https://api.github.com/repos/rive-app/rive-react",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 44
+  },
+  "janosh/svelte-multiselect": {
+    "url": "https://api.github.com/repos/janosh/svelte-multiselect",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 31
+  },
+  "aldabil21/react-scheduler": {
+    "url": "https://api.github.com/repos/aldabil21/react-scheduler",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 54
+  },
+  "apache/shenyu-website": {
+    "url": "https://api.github.com/repos/apache/shenyu-website",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 17
+  },
+  "sveltejs/eslint-plugin-svelte": {
+    "url": "https://api.github.com/repos/sveltejs/eslint-plugin-svelte",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 30
+  },
+  "mallfoundry/taroify": {
+    "url": "https://api.github.com/repos/mallfoundry/taroify",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 12
+  },
+  "erupts/erupt-web": {
+    "url": "https://api.github.com/repos/erupts/erupt-web",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 42
+  },
+  "hakimio/ngx-ui-tour": {
+    "url": "https://api.github.com/repos/hakimio/ngx-ui-tour",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 56
+  },
+  "grammyjs/grammY": {
+    "url": "https://api.github.com/repos/grammyjs/grammY",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 8
+  },
+  "expressots/expressots": {
+    "url": "https://api.github.com/repos/expressots/expressots",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 19
+  },
+  "jrwashburn/mina-pool-payout": {
+    "url": "https://api.github.com/repos/jrwashburn/mina-pool-payout",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 20
+  },
+  "apivideo/api.video-nodejs-client": {
+    "url": "https://api.github.com/repos/apivideo/api.video-nodejs-client",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 15
+  },
+  "cloudamqp/amqp-client.js": {
+    "url": "https://api.github.com/repos/cloudamqp/amqp-client.js",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 12
+  },
+  "ota-meshi/eslint-plugin-json-schema-validator": {
+    "url": "https://api.github.com/repos/ota-meshi/eslint-plugin-json-schema-validator",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 68
+  },
+  "volcengine/volc-sdk-nodejs": {
+    "url": "https://api.github.com/repos/volcengine/volc-sdk-nodejs",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 33
+  },
+  "codemirror/view": {
+    "url": "https://api.github.com/repos/codemirror/view",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "codemirror/autocomplete": {
+    "url": "https://api.github.com/repos/codemirror/autocomplete",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "IDuxFE/idux": {
+    "url": "https://api.github.com/repos/IDuxFE/idux",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 95
+  },
+  "FirebaseExtended/experimental-extensions": {
+    "url": "https://api.github.com/repos/FirebaseExtended/experimental-extensions",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 6
+  },
+  "khmyznikov/pwa-install": {
+    "url": "https://api.github.com/repos/khmyznikov/pwa-install",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 30
+  },
+  "zh-lx/pinyin-pro": {
+    "url": "https://api.github.com/repos/zh-lx/pinyin-pro",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 20
+  },
+  "getlift/lift": {
+    "url": "https://api.github.com/repos/getlift/lift",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 49
+  },
+  "tomvanswam/compass-card": {
+    "url": "https://api.github.com/repos/tomvanswam/compass-card",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 38
+  },
+  "ota-meshi/eslint-plugin-yml": {
+    "url": "https://api.github.com/repos/ota-meshi/eslint-plugin-yml",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 61
+  },
+  "ota-meshi/eslint-plugin-jsonc": {
+    "url": "https://api.github.com/repos/ota-meshi/eslint-plugin-jsonc",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 59
+  },
+  "tentone/geo-three": {
+    "url": "https://api.github.com/repos/tentone/geo-three",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 17
+  },
+  "LasCC/HackTools": {
+    "url": "https://api.github.com/repos/LasCC/HackTools",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 60
+  },
+  "oracle/oci-typescript-sdk": {
+    "url": "https://api.github.com/repos/oracle/oci-typescript-sdk",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 191
+  },
+  "nextauthjs/next-auth-example": {
+    "url": "https://api.github.com/repos/nextauthjs/next-auth-example",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 25
+  },
+  "multiformats/js-multiformats": {
+    "url": "https://api.github.com/repos/multiformats/js-multiformats",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "philihp/openskill.js": {
+    "url": "https://api.github.com/repos/philihp/openskill.js",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 21
+  },
+  "cweijan/vscode-database-client": {
+    "url": "https://api.github.com/repos/cweijan/vscode-database-client",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 58
+  },
+  "astoilkov/use-local-storage-state": {
+    "url": "https://api.github.com/repos/astoilkov/use-local-storage-state",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 27
+  },
+  "ant-design/ant-design-charts": {
+    "url": "https://api.github.com/repos/ant-design/ant-design-charts",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 58
+  },
+  "zxcvbn-ts/zxcvbn": {
+    "url": "https://api.github.com/repos/zxcvbn-ts/zxcvbn",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 57
+  },
+  "react-component/picker": {
+    "url": "https://api.github.com/repos/react-component/picker",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 43
+  },
+  "antvis/Graphin": {
+    "url": "https://api.github.com/repos/antvis/Graphin",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 13
+  },
+  "jupyterlab/extension-examples": {
+    "url": "https://api.github.com/repos/jupyterlab/extension-examples",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "Vin205/Enyanjyoti": {
+    "url": "https://api.github.com/repos/Vin205/Enyanjyoti",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 26
+  },
+  "chenbimo/yidash": {
+    "url": "https://api.github.com/repos/chenbimo/yidash",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 11
+  },
+  "mcollina/my-ua-parser": {
+    "url": "https://api.github.com/repos/mcollina/my-ua-parser",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "cardano-foundation/cardano-org": {
+    "url": "https://api.github.com/repos/cardano-foundation/cardano-org",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 19
+  },
+  "Rakesh9100/CalcDiverse": {
+    "url": "https://api.github.com/repos/Rakesh9100/CalcDiverse",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Kaliiiiiiiiii-Vinyzu/patchright": {
+    "url": "https://api.github.com/repos/Kaliiiiiiiiii-Vinyzu/patchright",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "FelipeFTN/Emoji-Copy": {
+    "url": "https://api.github.com/repos/FelipeFTN/Emoji-Copy",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "elrebelde21/LoliBot-MD": {
+    "url": "https://api.github.com/repos/elrebelde21/LoliBot-MD",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 59
+  },
+  "kolbytn/mindcraft": {
+    "url": "https://api.github.com/repos/kolbytn/mindcraft",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 28
+  },
+  "xiyuesaves/LiteLoaderQQNT-lite_tools": {
+    "url": "https://api.github.com/repos/xiyuesaves/LiteLoaderQQNT-lite_tools",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 10
+  },
+  "nicokaiser/hugo-theme-gallery": {
+    "url": "https://api.github.com/repos/nicokaiser/hugo-theme-gallery",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 6
+  },
+  "CanadaHonk/porffor": {
+    "url": "https://api.github.com/repos/CanadaHonk/porffor",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "arakoodev/EdgeChains": {
+    "url": "https://api.github.com/repos/arakoodev/EdgeChains",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 14
+  },
+  "PerformanC/NodeLink": {
+    "url": "https://api.github.com/repos/PerformanC/NodeLink",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "ronilaukkarinen/mastodon-bird-ui": {
+    "url": "https://api.github.com/repos/ronilaukkarinen/mastodon-bird-ui",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 9
+  },
+  "yoimiya-kokomi/Miao-Yunzai": {
+    "url": "https://api.github.com/repos/yoimiya-kokomi/Miao-Yunzai",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 28
+  },
+  "lnbits/nostrmarket": {
+    "url": "https://api.github.com/repos/lnbits/nostrmarket",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "WeiWenda/effect-note": {
+    "url": "https://api.github.com/repos/WeiWenda/effect-note",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 100
+  },
+  "MercuryWorkshop/anuraOS": {
+    "url": "https://api.github.com/repos/MercuryWorkshop/anuraOS",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 28
+  },
+  "projectdysnomia/dysnomia": {
+    "url": "https://api.github.com/repos/projectdysnomia/dysnomia",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 19
+  },
+  "isno/theByteBook": {
+    "url": "https://api.github.com/repos/isno/theByteBook",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 6
+  },
+  "yeyang52/yenai-plugin": {
+    "url": "https://api.github.com/repos/yeyang52/yenai-plugin",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 11
+  },
+  "SmallK111407/earth-k-plugin": {
+    "url": "https://api.github.com/repos/SmallK111407/earth-k-plugin",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "guoba-yunzai/guoba-plugin": {
+    "url": "https://api.github.com/repos/guoba-yunzai/guoba-plugin",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "windingwind/zotero-types": {
+    "url": "https://api.github.com/repos/windingwind/zotero-types",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 10
+  },
+  "statichunt/statichunt": {
+    "url": "https://api.github.com/repos/statichunt/statichunt",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 44
+  },
+  "vueform/vueform": {
+    "url": "https://api.github.com/repos/vueform/vueform",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 58
+  },
+  "dimdenGD/OldTwitter": {
+    "url": "https://api.github.com/repos/dimdenGD/OldTwitter",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "ImYanXiao/Elaina-MultiDevice": {
+    "url": "https://api.github.com/repos/ImYanXiao/Elaina-MultiDevice",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 59
+  },
+  "8aka-Team/NitWikit": {
+    "url": "https://api.github.com/repos/8aka-Team/NitWikit",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 31
+  },
+  "graphql/composite-schemas-wg": {
+    "url": "https://api.github.com/repos/graphql/composite-schemas-wg",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "zoushucai/zotero-journalabbr": {
+    "url": "https://api.github.com/repos/zoushucai/zotero-journalabbr",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 14
+  },
+  "Jieiku/abridge": {
+    "url": "https://api.github.com/repos/Jieiku/abridge",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "yoimiya-kokomi/miao-plugin": {
+    "url": "https://api.github.com/repos/yoimiya-kokomi/miao-plugin",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "keploy/docs": {
+    "url": "https://api.github.com/repos/keploy/docs",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 30
+  },
+  "enhance-dev/enhance.dev": {
+    "url": "https://api.github.com/repos/enhance-dev/enhance.dev",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 25
+  },
+  "Level/browser-level": {
+    "url": "https://api.github.com/repos/Level/browser-level",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 10
+  },
+  "RafaelGSS/nodejs-bench-operations": {
+    "url": "https://api.github.com/repos/RafaelGSS/nodejs-bench-operations",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 8
+  },
+  "Level/classic-level": {
+    "url": "https://api.github.com/repos/Level/classic-level",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 25
+  },
+  "eslint-community/eslint-plugin-es-x": {
+    "url": "https://api.github.com/repos/eslint-community/eslint-plugin-es-x",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 26
+  },
+  "umutxyp/MusicBot": {
+    "url": "https://api.github.com/repos/umutxyp/MusicBot",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 20
+  },
+  "CatalystDevOrg/Catalyst": {
+    "url": "https://api.github.com/repos/CatalystDevOrg/Catalyst",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 11
+  },
+  "immobiliare/fastify-sentry": {
+    "url": "https://api.github.com/repos/immobiliare/fastify-sentry",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 33
+  },
+  "CcSimple/vue-plugin-hiprint": {
+    "url": "https://api.github.com/repos/CcSimple/vue-plugin-hiprint",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 25
+  },
+  "fastify/busboy": {
+    "url": "https://api.github.com/repos/fastify/busboy",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 9
+  },
+  "Level/abstract-level": {
+    "url": "https://api.github.com/repos/Level/abstract-level",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 20
+  },
+  "yumata/lampa-source": {
+    "url": "https://api.github.com/repos/yumata/lampa-source",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 27
+  },
+  "Eurkon/hexo-theme-butterfly-eurkon": {
+    "url": "https://api.github.com/repos/Eurkon/hexo-theme-butterfly-eurkon",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "cloudwego/cloudwego.github.io": {
+    "url": "https://api.github.com/repos/cloudwego/cloudwego.github.io",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 8
+  },
+  "fastify/session": {
+    "url": "https://api.github.com/repos/fastify/session",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 15
+  },
+  "shanmiteko/LotteryAutoScript": {
+    "url": "https://api.github.com/repos/shanmiteko/LotteryAutoScript",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "l3mpire/lemverse": {
+    "url": "https://api.github.com/repos/l3mpire/lemverse",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 11
+  },
+  "errsole/errsole.js": {
+    "url": "https://api.github.com/repos/errsole/errsole.js",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 47
+  },
+  "mojolicious/mojo.js": {
+    "url": "https://api.github.com/repos/mojolicious/mojo.js",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 39
+  },
+  "microlinkhq/keyvhq": {
+    "url": "https://api.github.com/repos/microlinkhq/keyvhq",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 21
+  },
+  "AlexxIT/WebRTC": {
+    "url": "https://api.github.com/repos/AlexxIT/WebRTC",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "signalapp/better-sqlite3": {
+    "url": "https://api.github.com/repos/signalapp/better-sqlite3",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 9
+  },
+  "EmulatorJS/EmulatorJS": {
+    "url": "https://api.github.com/repos/EmulatorJS/EmulatorJS",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "cockpit-project/cockpit-machines": {
+    "url": "https://api.github.com/repos/cockpit-project/cockpit-machines",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 44
+  },
+  "serverless-dns/serverless-dns": {
+    "url": "https://api.github.com/repos/serverless-dns/serverless-dns",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 22
+  },
+  "cweijan/vscode-office": {
+    "url": "https://api.github.com/repos/cweijan/vscode-office",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 46
+  },
+  "0dayCTF/reverse-shell-generator": {
+    "url": "https://api.github.com/repos/0dayCTF/reverse-shell-generator",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "microlinkhq/youtube-dl-exec": {
+    "url": "https://api.github.com/repos/microlinkhq/youtube-dl-exec",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 19
+  },
+  "xaoxuu/hexo-theme-stellar": {
+    "url": "https://api.github.com/repos/xaoxuu/hexo-theme-stellar",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "rovelstars/discord-list": {
+    "url": "https://api.github.com/repos/rovelstars/discord-list",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 53
+  },
+  "miroslavpejic85/mirotalk": {
+    "url": "https://api.github.com/repos/miroslavpejic85/mirotalk",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 30
+  },
+  "xemle/home-gallery": {
+    "url": "https://api.github.com/repos/xemle/home-gallery",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 65
+  },
+  "vueform/multiselect": {
+    "url": "https://api.github.com/repos/vueform/multiselect",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 32
+  },
+  "petio-team/petio": {
+    "url": "https://api.github.com/repos/petio-team/petio",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 6
+  },
+  "holepunchto/autobase": {
+    "url": "https://api.github.com/repos/holepunchto/autobase",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 25
+  },
+  "dromara/electron-egg": {
+    "url": "https://api.github.com/repos/dromara/electron-egg",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 8
+  },
+  "lemonadejs/lemonadejs": {
+    "url": "https://api.github.com/repos/lemonadejs/lemonadejs",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 6
+  },
+  "openwrt/firmware-selector-openwrt-org": {
+    "url": "https://api.github.com/repos/openwrt/firmware-selector-openwrt-org",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "merdok/homebridge-miot": {
+    "url": "https://api.github.com/repos/merdok/homebridge-miot",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "bcomnes/npm-run-all2": {
+    "url": "https://api.github.com/repos/bcomnes/npm-run-all2",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 18
+  },
+  "newrelic/newrelic-node-apollo-server-plugin": {
+    "url": "https://api.github.com/repos/newrelic/newrelic-node-apollo-server-plugin",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 22
+  },
+  "kriszyp/cbor-x": {
+    "url": "https://api.github.com/repos/kriszyp/cbor-x",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 13
+  },
+  "kriszyp/msgpackr": {
+    "url": "https://api.github.com/repos/kriszyp/msgpackr",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 11
+  },
+  "holepunchto/hyperbee": {
+    "url": "https://api.github.com/repos/holepunchto/hyperbee",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 17
+  },
+  "billbarsch/myzap": {
+    "url": "https://api.github.com/repos/billbarsch/myzap",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 54
+  },
+  "webmachinelearning/webnn-samples": {
+    "url": "https://api.github.com/repos/webmachinelearning/webnn-samples",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 9
+  },
+  "DavidAnson/markdownlint-cli2": {
+    "url": "https://api.github.com/repos/DavidAnson/markdownlint-cli2",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 32
+  },
+  "xrkffgg/xrkffgg": {
+    "url": "https://api.github.com/repos/xrkffgg/xrkffgg",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "sm64js/sm64js": {
+    "url": "https://api.github.com/repos/sm64js/sm64js",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 19
+  },
+  "PrismarineJS/prismarine-viewer": {
+    "url": "https://api.github.com/repos/PrismarineJS/prismarine-viewer",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 31
+  },
+  "johnsusek/elastalert-server": {
+    "url": "https://api.github.com/repos/johnsusek/elastalert-server",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 29
+  },
+  "vexorian/dizquetv": {
+    "url": "https://api.github.com/repos/vexorian/dizquetv",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 36
+  },
+  "microlinkhq/react-json-view": {
+    "url": "https://api.github.com/repos/microlinkhq/react-json-view",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 53
+  },
+  "11ty/eleventy-img": {
+    "url": "https://api.github.com/repos/11ty/eleventy-img",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 17
+  },
+  "piranha/twinspark-js": {
+    "url": "https://api.github.com/repos/piranha/twinspark-js",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "microlinkhq/cards": {
+    "url": "https://api.github.com/repos/microlinkhq/cards",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 15
+  },
+  "next-theme/hexo-theme-next": {
+    "url": "https://api.github.com/repos/next-theme/hexo-theme-next",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 10
+  },
+  "NodeSecure/js-x-ray": {
+    "url": "https://api.github.com/repos/NodeSecure/js-x-ray",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 14
+  },
+  "Yue-plus/hexo-theme-arknights": {
+    "url": "https://api.github.com/repos/Yue-plus/hexo-theme-arknights",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "gologinapp/gologin": {
+    "url": "https://api.github.com/repos/gologinapp/gologin",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 16
+  },
+  "ZerioDev/Music-bot": {
+    "url": "https://api.github.com/repos/ZerioDev/Music-bot",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 12
+  },
+  "nearform/fast-jwt": {
+    "url": "https://api.github.com/repos/nearform/fast-jwt",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 20
+  },
+  "TDuckCloud/tduck-front": {
+    "url": "https://api.github.com/repos/TDuckCloud/tduck-front",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 54
+  },
+  "tc39/notes": {
+    "url": "https://api.github.com/repos/tc39/notes",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "nearform/fastify-auth0-verify": {
+    "url": "https://api.github.com/repos/nearform/fastify-auth0-verify",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 20
+  },
+  "bcomnes/deploy-to-neocities": {
+    "url": "https://api.github.com/repos/bcomnes/deploy-to-neocities",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 12
+  },
+  "Fdawgs/node-poppler": {
+    "url": "https://api.github.com/repos/Fdawgs/node-poppler",
+    "projectType": [
+      "npm"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 24
+  }
+}

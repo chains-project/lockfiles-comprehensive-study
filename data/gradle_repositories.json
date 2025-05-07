@@ -1,0 +1,2601 @@
+{
+  "Kei-Luna/LunaGC_5.0.0": {
+    "url": "https://api.github.com/repos/Kei-Luna/LunaGC_5.0.0",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "lazy-immortal/Sesame": {
+    "url": "https://api.github.com/repos/lazy-immortal/Sesame",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "LazyImmortal/Sesame": {
+    "url": "https://api.github.com/repos/LazyImmortal/Sesame",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "MCModderAnchor/TACZ": {
+    "url": "https://api.github.com/repos/MCModderAnchor/TACZ",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "apache/polaris": {
+    "url": "https://api.github.com/repos/apache/polaris",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Dev4Mod/WaEnhancer": {
+    "url": "https://api.github.com/repos/Dev4Mod/WaEnhancer",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "devoxx/DevoxxGenieIDEAPlugin": {
+    "url": "https://api.github.com/repos/devoxx/DevoxxGenieIDEAPlugin",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 35
+  },
+  "palantir/javapoet": {
+    "url": "https://api.github.com/repos/palantir/javapoet",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 10
+  },
+  "MiranCZ/altoclef": {
+    "url": "https://api.github.com/repos/MiranCZ/altoclef",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "FoedusProgramme/AccordLegacy": {
+    "url": "https://api.github.com/repos/FoedusProgramme/AccordLegacy",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "Xed-Editor/Xed-Editor": {
+    "url": "https://api.github.com/repos/Xed-Editor/Xed-Editor",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "Direwolf20-MC/JustDireThings": {
+    "url": "https://api.github.com/repos/Direwolf20-MC/JustDireThings",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "linkedin/openhouse": {
+    "url": "https://api.github.com/repos/linkedin/openhouse",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "Rearth/Oritech": {
+    "url": "https://api.github.com/repos/Rearth/Oritech",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "apple/pkl": {
+    "url": "https://api.github.com/repos/apple/pkl",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": "workspaces",
+    "projectCreationDate": "2024-01-19T17:28:45Z",
+    "lockfileCreationDates": {
+      "gradle.lockfile": "2024-02-01T17:00:00Z"
+    },
+    "gap": "less"
+  },
+  "Futsch1/medTimer": {
+    "url": "https://api.github.com/repos/Futsch1/medTimer",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "kora-projects/kora": {
+    "url": "https://api.github.com/repos/kora-projects/kora",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "Incendo/cloud-minecraft": {
+    "url": "https://api.github.com/repos/Incendo/cloud-minecraft",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "BreweryTeam/BreweryX": {
+    "url": "https://api.github.com/repos/BreweryTeam/BreweryX",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "find-xposed-magisk/LSPatch": {
+    "url": "https://api.github.com/repos/find-xposed-magisk/LSPatch",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Swofty-Developments/HypixelSkyBlock": {
+    "url": "https://api.github.com/repos/Swofty-Developments/HypixelSkyBlock",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 12
+  },
+  "redhat-developer/lsp4ij": {
+    "url": "https://api.github.com/repos/redhat-developer/lsp4ij",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "MewoLab/AquaDX": {
+    "url": "https://api.github.com/repos/MewoLab/AquaDX",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "granny/Pl3xMap": {
+    "url": "https://api.github.com/repos/granny/Pl3xMap",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "termux-play-store/termux-apps": {
+    "url": "https://api.github.com/repos/termux-play-store/termux-apps",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "flyun/chatAir": {
+    "url": "https://api.github.com/repos/flyun/chatAir",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "epam/ai-dial-core": {
+    "url": "https://api.github.com/repos/epam/ai-dial-core",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "lavalink-devs/lavaplayer": {
+    "url": "https://api.github.com/repos/lavalink-devs/lavaplayer",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "ballerina-platform/module-ballerina-mqtt": {
+    "url": "https://api.github.com/repos/ballerina-platform/module-ballerina-mqtt",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "open-telemetry/opentelemetry-android": {
+    "url": "https://api.github.com/repos/open-telemetry/opentelemetry-android",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "littlehorse-enterprises/littlehorse": {
+    "url": "https://api.github.com/repos/littlehorse-enterprises/littlehorse",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "FiguraMC/Figura": {
+    "url": "https://api.github.com/repos/FiguraMC/Figura",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Pan4ur/ThunderHack-Recode": {
+    "url": "https://api.github.com/repos/Pan4ur/ThunderHack-Recode",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "neoforged/FancyModLoader": {
+    "url": "https://api.github.com/repos/neoforged/FancyModLoader",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "neoforged/NeoGradle": {
+    "url": "https://api.github.com/repos/neoforged/NeoGradle",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "mlzzen/open-nga": {
+    "url": "https://api.github.com/repos/mlzzen/open-nga",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "johnmai-dev/go-orm-helper": {
+    "url": "https://api.github.com/repos/johnmai-dev/go-orm-helper",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 11
+  },
+  "hivemq/hivemq-edge": {
+    "url": "https://api.github.com/repos/hivemq/hivemq-edge",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "xdev-software/intellij-plugin-save-actions": {
+    "url": "https://api.github.com/repos/xdev-software/intellij-plugin-save-actions",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "SimonHalvdansson/Harmonic-HN": {
+    "url": "https://api.github.com/repos/SimonHalvdansson/Harmonic-HN",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Pyrbu/ZNPCsPlus": {
+    "url": "https://api.github.com/repos/Pyrbu/ZNPCsPlus",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "MayaqqDev/Estrogen": {
+    "url": "https://api.github.com/repos/MayaqqDev/Estrogen",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "aizuda/flowlong": {
+    "url": "https://api.github.com/repos/aizuda/flowlong",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Cubed-Development/Modern-Warfare-Cubed": {
+    "url": "https://api.github.com/repos/Cubed-Development/Modern-Warfare-Cubed",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "Ethan-Vann/EthanVannPlugins": {
+    "url": "https://api.github.com/repos/Ethan-Vann/EthanVannPlugins",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 9
+  },
+  "WiIIiam278/Velocitab": {
+    "url": "https://api.github.com/repos/WiIIiam278/Velocitab",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "FancyMcPlugins/FancyHolograms": {
+    "url": "https://api.github.com/repos/FancyMcPlugins/FancyHolograms",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 13
+  },
+  "CleanroomMC/Cleanroom": {
+    "url": "https://api.github.com/repos/CleanroomMC/Cleanroom",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "isXander/Controlify": {
+    "url": "https://api.github.com/repos/isXander/Controlify",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "BroncBotz3481/YAGSL-Example": {
+    "url": "https://api.github.com/repos/BroncBotz3481/YAGSL-Example",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 15
+  },
+  "chaoticgd/ghidra-emotionengine-reloaded": {
+    "url": "https://api.github.com/repos/chaoticgd/ghidra-emotionengine-reloaded",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "ViaVersion/ViaProxy": {
+    "url": "https://api.github.com/repos/ViaVersion/ViaProxy",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 8
+  },
+  "FancyMcPlugins/FancyNpcs": {
+    "url": "https://api.github.com/repos/FancyMcPlugins/FancyNpcs",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 21
+  },
+  "AstralOrdana/Spelunkery": {
+    "url": "https://api.github.com/repos/AstralOrdana/Spelunkery",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "AlexModGuy/AlexsCaves": {
+    "url": "https://api.github.com/repos/AlexModGuy/AlexsCaves",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "WhoCraft/TardisRefined": {
+    "url": "https://api.github.com/repos/WhoCraft/TardisRefined",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "etianl/Trouser-Streak": {
+    "url": "https://api.github.com/repos/etianl/Trouser-Streak",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "FCL-Team/FoldCraftLauncher": {
+    "url": "https://api.github.com/repos/FCL-Team/FoldCraftLauncher",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "ACGaming/UniversalTweaks": {
+    "url": "https://api.github.com/repos/ACGaming/UniversalTweaks",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "openrewrite/rewrite-kotlin": {
+    "url": "https://api.github.com/repos/openrewrite/rewrite-kotlin",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "DuncanRuns/Julti": {
+    "url": "https://api.github.com/repos/DuncanRuns/Julti",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 16
+  },
+  "isXander/YetAnotherConfigLib": {
+    "url": "https://api.github.com/repos/isXander/YetAnotherConfigLib",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "DragonsPlusMinecraft/CreateEnchantmentIndustry": {
+    "url": "https://api.github.com/repos/DragonsPlusMinecraft/CreateEnchantmentIndustry",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "FongMi/CatVodSpider": {
+    "url": "https://api.github.com/repos/FongMi/CatVodSpider",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "GTNewHorizons/Angelica": {
+    "url": "https://api.github.com/repos/GTNewHorizons/Angelica",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 100
+  },
+  "AsoDesu/IslandUtils": {
+    "url": "https://api.github.com/repos/AsoDesu/IslandUtils",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "pcal43/fastback": {
+    "url": "https://api.github.com/repos/pcal43/fastback",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "rfresh2/XaeroPlus": {
+    "url": "https://api.github.com/repos/rfresh2/XaeroPlus",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "VerisimilitudeX/DNAnalyzer": {
+    "url": "https://api.github.com/repos/VerisimilitudeX/DNAnalyzer",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 11
+  },
+  "pascal-lab/Tai-e": {
+    "url": "https://api.github.com/repos/pascal-lab/Tai-e",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "petrolpark/Destroy": {
+    "url": "https://api.github.com/repos/petrolpark/Destroy",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "ballerina-platform/module-ballerina-persist": {
+    "url": "https://api.github.com/repos/ballerina-platform/module-ballerina-persist",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "minecraft-access/minecraft-access": {
+    "url": "https://api.github.com/repos/minecraft-access/minecraft-access",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "LunarClient/Apollo": {
+    "url": "https://api.github.com/repos/LunarClient/Apollo",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "KyaniteMods/DeeperAndDarker": {
+    "url": "https://api.github.com/repos/KyaniteMods/DeeperAndDarker",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Cannoneers-of-Create/CreateBigCannons": {
+    "url": "https://api.github.com/repos/Cannoneers-of-Create/CreateBigCannons",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Xiao-MoMi/Custom-Fishing": {
+    "url": "https://api.github.com/repos/Xiao-MoMi/Custom-Fishing",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "sspanak/tt9": {
+    "url": "https://api.github.com/repos/sspanak/tt9",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "117HD/RLHD": {
+    "url": "https://api.github.com/repos/117HD/RLHD",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 9
+  },
+  "oracle/graalvm-reachability-metadata": {
+    "url": "https://api.github.com/repos/oracle/graalvm-reachability-metadata",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "CleanroomMC/GroovyScript": {
+    "url": "https://api.github.com/repos/CleanroomMC/GroovyScript",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "Noxcrew/noxesium": {
+    "url": "https://api.github.com/repos/Noxcrew/noxesium",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "aws/aws-advanced-jdbc-wrapper": {
+    "url": "https://api.github.com/repos/aws/aws-advanced-jdbc-wrapper",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "spring-projects/spring-pulsar": {
+    "url": "https://api.github.com/repos/spring-projects/spring-pulsar",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "ClickHouse/clickhouse-kafka-connect": {
+    "url": "https://api.github.com/repos/ClickHouse/clickhouse-kafka-connect",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Xiao-MoMi/Custom-Nameplates": {
+    "url": "https://api.github.com/repos/Xiao-MoMi/Custom-Nameplates",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "Aizistral-Studios/No-Chat-Reports": {
+    "url": "https://api.github.com/repos/Aizistral-Studios/No-Chat-Reports",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Traben-0/Entity_Model_Features": {
+    "url": "https://api.github.com/repos/Traben-0/Entity_Model_Features",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "satisfyu/Vinery": {
+    "url": "https://api.github.com/repos/satisfyu/Vinery",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "cagnulein/QZCompanionNordictrackTreadmill": {
+    "url": "https://api.github.com/repos/cagnulein/QZCompanionNordictrackTreadmill",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "FxMorin/MoreCulling": {
+    "url": "https://api.github.com/repos/FxMorin/MoreCulling",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "MonwF/customiuizer": {
+    "url": "https://api.github.com/repos/MonwF/customiuizer",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "eclipse-edc/MinimumViableDataspace": {
+    "url": "https://api.github.com/repos/eclipse-edc/MinimumViableDataspace",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "Dituon/petpet": {
+    "url": "https://api.github.com/repos/Dituon/petpet",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 10
+  },
+  "Xiao-MoMi/Custom-Crops": {
+    "url": "https://api.github.com/repos/Xiao-MoMi/Custom-Crops",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "MehVahdJukaar/WoodGood": {
+    "url": "https://api.github.com/repos/MehVahdJukaar/WoodGood",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "ZsoltMolnarrr/BetterCombat": {
+    "url": "https://api.github.com/repos/ZsoltMolnarrr/BetterCombat",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "PreviousAlone/Nnngram": {
+    "url": "https://api.github.com/repos/PreviousAlone/Nnngram",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "Luke100000/ImmersiveAircraft": {
+    "url": "https://api.github.com/repos/Luke100000/ImmersiveAircraft",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "microsoft/HydraLab": {
+    "url": "https://api.github.com/repos/microsoft/HydraLab",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "stabu-dev/Omaloon": {
+    "url": "https://api.github.com/repos/stabu-dev/Omaloon",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "LodestarMC/Lodestone": {
+    "url": "https://api.github.com/repos/LodestarMC/Lodestone",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Grasscutters/Grasscutter": {
+    "url": "https://api.github.com/repos/Grasscutters/Grasscutter",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Skidamek/AutoModpack": {
+    "url": "https://api.github.com/repos/Skidamek/AutoModpack",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "gradlex-org/jvm-dependency-conflict-resolution": {
+    "url": "https://api.github.com/repos/gradlex-org/jvm-dependency-conflict-resolution",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "awslabs/aws-java-nio-spi-for-s3": {
+    "url": "https://api.github.com/repos/awslabs/aws-java-nio-spi-for-s3",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "MoriyaShiine/enchancement": {
+    "url": "https://api.github.com/repos/MoriyaShiine/enchancement",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "JellyLabScripts/FarmHelper": {
+    "url": "https://api.github.com/repos/JellyLabScripts/FarmHelper",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 18
+  },
+  "kyngs/LibreLogin": {
+    "url": "https://api.github.com/repos/kyngs/LibreLogin",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "google/dwh-migration-tools": {
+    "url": "https://api.github.com/repos/google/dwh-migration-tools",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": "workspaces",
+    "projectCreationDate": "2022-03-18T19:18:39Z",
+    "lockfileCreationDates": {
+      "build.gradle": "2024-08-14T18:08:00Z"
+    },
+    "gap": "more"
+  },
+  "emilyploszaj/emi": {
+    "url": "https://api.github.com/repos/emilyploszaj/emi",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "isXander/Debugify": {
+    "url": "https://api.github.com/repos/isXander/Debugify",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "WildfireRomeo/WildfireFemaleGenderMod": {
+    "url": "https://api.github.com/repos/WildfireRomeo/WildfireFemaleGenderMod",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "TeamMidnightDust/MidnightControls": {
+    "url": "https://api.github.com/repos/TeamMidnightDust/MidnightControls",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Helium314/HeliBoard": {
+    "url": "https://api.github.com/repos/Helium314/HeliBoard",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "gradle/wrapper-upgrade-gradle-plugin": {
+    "url": "https://api.github.com/repos/gradle/wrapper-upgrade-gradle-plugin",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 6
+  },
+  "Fabricators-of-Create/Porting-Lib": {
+    "url": "https://api.github.com/repos/Fabricators-of-Create/Porting-Lib",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "micrometer-metrics/context-propagation": {
+    "url": "https://api.github.com/repos/micrometer-metrics/context-propagation",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 10
+  },
+  "sigstore/sigstore-java": {
+    "url": "https://api.github.com/repos/sigstore/sigstore-java",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "JamesTKhan/Mundus": {
+    "url": "https://api.github.com/repos/JamesTKhan/Mundus",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "deltazefiro/Amarok-Hider": {
+    "url": "https://api.github.com/repos/deltazefiro/Amarok-Hider",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "php-perfect/ddev-intellij-plugin": {
+    "url": "https://api.github.com/repos/php-perfect/ddev-intellij-plugin",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 32
+  },
+  "AstralOrdana/Immersive-Weathering": {
+    "url": "https://api.github.com/repos/AstralOrdana/Immersive-Weathering",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Traben-0/Entity_Texture_Features": {
+    "url": "https://api.github.com/repos/Traben-0/Entity_Texture_Features",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "gradle/common-custom-user-data-gradle-plugin": {
+    "url": "https://api.github.com/repos/gradle/common-custom-user-data-gradle-plugin",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "DiSkyOrg/DiSky": {
+    "url": "https://api.github.com/repos/DiSkyOrg/DiSky",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 6
+  },
+  "Aiven-Open/prometheus-exporter-plugin-for-opensearch": {
+    "url": "https://api.github.com/repos/Aiven-Open/prometheus-exporter-plugin-for-opensearch",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "mrbuilder1961/ChatPatches": {
+    "url": "https://api.github.com/repos/mrbuilder1961/ChatPatches",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 6
+  },
+  "Ladysnake/Effective": {
+    "url": "https://api.github.com/repos/Ladysnake/Effective",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "MinecraftFreecam/Freecam": {
+    "url": "https://api.github.com/repos/MinecraftFreecam/Freecam",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "Polyfrost/Hytils-Reborn": {
+    "url": "https://api.github.com/repos/Polyfrost/Hytils-Reborn",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "gecolay/GSit": {
+    "url": "https://api.github.com/repos/gecolay/GSit",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 15
+  },
+  "AxolotlClient/AxolotlClient-mod": {
+    "url": "https://api.github.com/repos/AxolotlClient/AxolotlClient-mod",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "jpenilla/squaremap": {
+    "url": "https://api.github.com/repos/jpenilla/squaremap",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "MCPHackers/RetroMCP-Java": {
+    "url": "https://api.github.com/repos/MCPHackers/RetroMCP-Java",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "SoLegendary/reignofnether": {
+    "url": "https://api.github.com/repos/SoLegendary/reignofnether",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "croz-ltd/nrich": {
+    "url": "https://api.github.com/repos/croz-ltd/nrich",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 6
+  },
+  "aparo/opensearch-analysis-ik": {
+    "url": "https://api.github.com/repos/aparo/opensearch-analysis-ik",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "ballerina-platform/graphql-tools": {
+    "url": "https://api.github.com/repos/ballerina-platform/graphql-tools",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "Faboslav/friends-and-foes": {
+    "url": "https://api.github.com/repos/Faboslav/friends-and-foes",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "open-telemetry/opentelemetry-java-examples": {
+    "url": "https://api.github.com/repos/open-telemetry/opentelemetry-java-examples",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Rollczi/LiteCommands": {
+    "url": "https://api.github.com/repos/Rollczi/LiteCommands",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "micrometer-metrics/tracing": {
+    "url": "https://api.github.com/repos/micrometer-metrics/tracing",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 12
+  },
+  "Aiven-Open/opensearch-connector-for-apache-kafka": {
+    "url": "https://api.github.com/repos/Aiven-Open/opensearch-connector-for-apache-kafka",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 21
+  },
+  "ballerina-platform/module-ballerinai-observe": {
+    "url": "https://api.github.com/repos/ballerina-platform/module-ballerinai-observe",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "ballerina-platform/module-ballerina-observe": {
+    "url": "https://api.github.com/repos/ballerina-platform/module-ballerina-observe",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "DecentSoftware-eu/DecentHolograms": {
+    "url": "https://api.github.com/repos/DecentSoftware-eu/DecentHolograms",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 10
+  },
+  "MEEPofFaith/testing-utilities-java": {
+    "url": "https://api.github.com/repos/MEEPofFaith/testing-utilities-java",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "SigmundGranaas/forgero": {
+    "url": "https://api.github.com/repos/SigmundGranaas/forgero",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "dingodb/dingo": {
+    "url": "https://api.github.com/repos/dingodb/dingo",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "Revxrsal/Lamp": {
+    "url": "https://api.github.com/repos/Revxrsal/Lamp",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "mim1q/MineCells": {
+    "url": "https://api.github.com/repos/mim1q/MineCells",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "itzg/mc-image-helper": {
+    "url": "https://api.github.com/repos/itzg/mc-image-helper",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 6
+  },
+  "Together-Java/TJ-Bot": {
+    "url": "https://api.github.com/repos/Together-Java/TJ-Bot",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "opensource4you/astraea": {
+    "url": "https://api.github.com/repos/opensource4you/astraea",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "ballerina-platform/asyncapi-tools": {
+    "url": "https://api.github.com/repos/ballerina-platform/asyncapi-tools",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "MisakaTAT/Shiro": {
+    "url": "https://api.github.com/repos/MisakaTAT/Shiro",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "Mechanical-Advantage/AdvantageKit": {
+    "url": "https://api.github.com/repos/Mechanical-Advantage/AdvantageKit",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "Elytrium/LimboAPI": {
+    "url": "https://api.github.com/repos/Elytrium/LimboAPI",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "SHsuperCM/CITResewn": {
+    "url": "https://api.github.com/repos/SHsuperCM/CITResewn",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "naver/fixture-monkey": {
+    "url": "https://api.github.com/repos/naver/fixture-monkey",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "MEEPofFaith/prog-mats-java": {
+    "url": "https://api.github.com/repos/MEEPofFaith/prog-mats-java",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "GrapheneOS/Camera": {
+    "url": "https://api.github.com/repos/GrapheneOS/Camera",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "TeamPeril/Sculk-Horde": {
+    "url": "https://api.github.com/repos/TeamPeril/Sculk-Horde",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 9
+  },
+  "ballerina-platform/module-ballerina-protobuf": {
+    "url": "https://api.github.com/repos/ballerina-platform/module-ballerina-protobuf",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Globox1997/LevelZ": {
+    "url": "https://api.github.com/repos/Globox1997/LevelZ",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "CappielloAntonio/tempo": {
+    "url": "https://api.github.com/repos/CappielloAntonio/tempo",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "opensearch-project/opensearch-java": {
+    "url": "https://api.github.com/repos/opensearch-project/opensearch-java",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "MehVahdJukaar/Moonlight": {
+    "url": "https://api.github.com/repos/MehVahdJukaar/Moonlight",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Ahoo-Wang/CosId": {
+    "url": "https://api.github.com/repos/Ahoo-Wang/CosId",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 18
+  },
+  "NikitaCartes/EasyAuth": {
+    "url": "https://api.github.com/repos/NikitaCartes/EasyAuth",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "jixxed/ed-odyssey-materials-helper": {
+    "url": "https://api.github.com/repos/jixxed/ed-odyssey-materials-helper",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "projectnessie/cel-java": {
+    "url": "https://api.github.com/repos/projectnessie/cel-java",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "Java-Discord/JavaBot": {
+    "url": "https://api.github.com/repos/Java-Discord/JavaBot",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "wisp-forest/owo-lib": {
+    "url": "https://api.github.com/repos/wisp-forest/owo-lib",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "alRex-U/ParCool": {
+    "url": "https://api.github.com/repos/alRex-U/ParCool",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "SonarSource/sonar-iac": {
+    "url": "https://api.github.com/repos/SonarSource/sonar-iac",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "QuiltMC/quilt-standard-libraries": {
+    "url": "https://api.github.com/repos/QuiltMC/quilt-standard-libraries",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "elastic/elasticsearch-java": {
+    "url": "https://api.github.com/repos/elastic/elasticsearch-java",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "WiIIiam278/HuskTowns": {
+    "url": "https://api.github.com/repos/WiIIiam278/HuskTowns",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "QuiltMC/quilt-loader": {
+    "url": "https://api.github.com/repos/QuiltMC/quilt-loader",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "graalvm/native-build-tools": {
+    "url": "https://api.github.com/repos/graalvm/native-build-tools",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "Patbox/polymer": {
+    "url": "https://api.github.com/repos/Patbox/polymer",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "opensearch-project/ml-commons": {
+    "url": "https://api.github.com/repos/opensearch-project/ml-commons",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "opensearch-project/anomaly-detection": {
+    "url": "https://api.github.com/repos/opensearch-project/anomaly-detection",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "opensearch-project/k-NN": {
+    "url": "https://api.github.com/repos/opensearch-project/k-NN",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "opensearch-project/sql": {
+    "url": "https://api.github.com/repos/opensearch-project/sql",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "openrewrite/rewrite-migrate-java": {
+    "url": "https://api.github.com/repos/openrewrite/rewrite-migrate-java",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "MrCrayfish/Configured": {
+    "url": "https://api.github.com/repos/MrCrayfish/Configured",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "AntiCope/meteor-rejects": {
+    "url": "https://api.github.com/repos/AntiCope/meteor-rejects",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "QuiltMC/enigma": {
+    "url": "https://api.github.com/repos/QuiltMC/enigma",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "Aiven-Open/tiered-storage-for-apache-kafka": {
+    "url": "https://api.github.com/repos/Aiven-Open/tiered-storage-for-apache-kafka",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 14
+  },
+  "AutoParams/AutoParams": {
+    "url": "https://api.github.com/repos/AutoParams/AutoParams",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "znsio/teswiz": {
+    "url": "https://api.github.com/repos/znsio/teswiz",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "michelin/ns4kafka": {
+    "url": "https://api.github.com/repos/michelin/ns4kafka",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 31
+  },
+  "Aliucord/Aliucord": {
+    "url": "https://api.github.com/repos/Aliucord/Aliucord",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "Epic-Fight/epicfightmod": {
+    "url": "https://api.github.com/repos/Epic-Fight/epicfightmod",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Iridium-Development/IridiumSkyblock": {
+    "url": "https://api.github.com/repos/Iridium-Development/IridiumSkyblock",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 11
+  },
+  "RelativityMC/C2ME-fabric": {
+    "url": "https://api.github.com/repos/RelativityMC/C2ME-fabric",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "falzonv/discreet-launcher": {
+    "url": "https://api.github.com/repos/falzonv/discreet-launcher",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Octo-Studios/relics": {
+    "url": "https://api.github.com/repos/Octo-Studios/relics",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Team-xManager/xManager": {
+    "url": "https://api.github.com/repos/Team-xManager/xManager",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "badasintended/wthit": {
+    "url": "https://api.github.com/repos/badasintended/wthit",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "ValkyrienSkies/Valkyrien-Skies-2": {
+    "url": "https://api.github.com/repos/ValkyrienSkies/Valkyrien-Skies-2",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "MultiPaper/MultiPaper": {
+    "url": "https://api.github.com/repos/MultiPaper/MultiPaper",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "adeekshith/watomatic": {
+    "url": "https://api.github.com/repos/adeekshith/watomatic",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "mrh0/createaddition": {
+    "url": "https://api.github.com/repos/mrh0/createaddition",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "ProxioDev/ValioBungee": {
+    "url": "https://api.github.com/repos/ProxioDev/ValioBungee",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "Ladysnake/RATs-Mischief": {
+    "url": "https://api.github.com/repos/Ladysnake/RATs-Mischief",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Xujiayao/Discord-MC-Chat": {
+    "url": "https://api.github.com/repos/Xujiayao/Discord-MC-Chat",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "openmainframeproject/cobol-check": {
+    "url": "https://api.github.com/repos/openmainframeproject/cobol-check",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 8
+  },
+  "WiIIiam278/HuskHomes": {
+    "url": "https://api.github.com/repos/WiIIiam278/HuskHomes",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "ballerina-platform/module-ballerinax-prometheus": {
+    "url": "https://api.github.com/repos/ballerina-platform/module-ballerinax-prometheus",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "ballerina-platform/module-ballerinax-jaeger": {
+    "url": "https://api.github.com/repos/ballerina-platform/module-ballerinax-jaeger",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "TeamOct/FOS": {
+    "url": "https://api.github.com/repos/TeamOct/FOS",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "bk138/droidVNC-NG": {
+    "url": "https://api.github.com/repos/bk138/droidVNC-NG",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "VolmitSoftware/Adapt": {
+    "url": "https://api.github.com/repos/VolmitSoftware/Adapt",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "Dungeons-Guide/Skyblock-Dungeons-Guide": {
+    "url": "https://api.github.com/repos/Dungeons-Guide/Skyblock-Dungeons-Guide",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "TeamPiped/Piped-Backend": {
+    "url": "https://api.github.com/repos/TeamPiped/Piped-Backend",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 25
+  },
+  "xiaojieonly/Ehviewer_CN_SXJ": {
+    "url": "https://api.github.com/repos/xiaojieonly/Ehviewer_CN_SXJ",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "moneytoo/Player": {
+    "url": "https://api.github.com/repos/moneytoo/Player",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "MehVahdJukaar/Supplementaries": {
+    "url": "https://api.github.com/repos/MehVahdJukaar/Supplementaries",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "seqeralabs/tower-cli": {
+    "url": "https://api.github.com/repos/seqeralabs/tower-cli",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 15
+  },
+  "Yuria-Shikibe/NewHorizonMod": {
+    "url": "https://api.github.com/repos/Yuria-Shikibe/NewHorizonMod",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "FalsehoodMC/Fabrication": {
+    "url": "https://api.github.com/repos/FalsehoodMC/Fabrication",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "henkelmax/simple-voice-chat": {
+    "url": "https://api.github.com/repos/henkelmax/simple-voice-chat",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "aleksilassila/litematica-printer": {
+    "url": "https://api.github.com/repos/aleksilassila/litematica-printer",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "P3pp3rF1y/SophisticatedBackpacks": {
+    "url": "https://api.github.com/repos/P3pp3rF1y/SophisticatedBackpacks",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "TrianguloY/URLCheck": {
+    "url": "https://api.github.com/repos/TrianguloY/URLCheck",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Noaaan/MythicMetals": {
+    "url": "https://api.github.com/repos/Noaaan/MythicMetals",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "coltonk9043/Aoba-Client": {
+    "url": "https://api.github.com/repos/coltonk9043/Aoba-Client",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "aws-observability/aws-otel-java-instrumentation": {
+    "url": "https://api.github.com/repos/aws-observability/aws-otel-java-instrumentation",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "openrewrite/rewrite-testing-frameworks": {
+    "url": "https://api.github.com/repos/openrewrite/rewrite-testing-frameworks",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 19
+  },
+  "chronosacaria/MCDungeonsWeapons": {
+    "url": "https://api.github.com/repos/chronosacaria/MCDungeonsWeapons",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "dzwdz/chat_heads": {
+    "url": "https://api.github.com/repos/dzwdz/chat_heads",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 5
+  },
+  "Flemmli97/Flan": {
+    "url": "https://api.github.com/repos/Flemmli97/Flan",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "Kaktushose/jda-commands": {
+    "url": "https://api.github.com/repos/Kaktushose/jda-commands",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "ballerina-platform/module-ballerina-os": {
+    "url": "https://api.github.com/repos/ballerina-platform/module-ballerina-os",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "carlspring/s3fs-nio": {
+    "url": "https://api.github.com/repos/carlspring/s3fs-nio",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "oddlama/vane": {
+    "url": "https://api.github.com/repos/oddlama/vane",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "NucleoidMC/plasmid": {
+    "url": "https://api.github.com/repos/NucleoidMC/plasmid",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "infernalstudios/Infernal-Expansion": {
+    "url": "https://api.github.com/repos/infernalstudios/Infernal-Expansion",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "ballerina-platform/module-ballerina-c2c": {
+    "url": "https://api.github.com/repos/ballerina-platform/module-ballerina-c2c",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "ballerina-platform/module-ballerina-xslt": {
+    "url": "https://api.github.com/repos/ballerina-platform/module-ballerina-xslt",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "spring-projects/spring-graphql": {
+    "url": "https://api.github.com/repos/spring-projects/spring-graphql",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "JackFred2/ChestTracker": {
+    "url": "https://api.github.com/repos/JackFred2/ChestTracker",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "pop4959/Chunky": {
+    "url": "https://api.github.com/repos/pop4959/Chunky",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "hardcore-sushi/DroidFS": {
+    "url": "https://api.github.com/repos/hardcore-sushi/DroidFS",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "vectorwing/FarmersDelight": {
+    "url": "https://api.github.com/repos/vectorwing/FarmersDelight",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "team-abnormals/environmental": {
+    "url": "https://api.github.com/repos/team-abnormals/environmental",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "KosmX/emotes": {
+    "url": "https://api.github.com/repos/KosmX/emotes",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "PhotonVision/photonvision": {
+    "url": "https://api.github.com/repos/PhotonVision/photonvision",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "micronaut-projects/micronaut-gradle-plugin": {
+    "url": "https://api.github.com/repos/micronaut-projects/micronaut-gradle-plugin",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 13
+  },
+  "Hexaoxide/Carbon": {
+    "url": "https://api.github.com/repos/Hexaoxide/Carbon",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "structurizr/cli": {
+    "url": "https://api.github.com/repos/structurizr/cli",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Divested-Mobile/Hypatia": {
+    "url": "https://api.github.com/repos/Divested-Mobile/Hypatia",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "EventStore/EventStoreDB-Client-Java": {
+    "url": "https://api.github.com/repos/EventStore/EventStoreDB-Client-Java",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "TheEpicBlock/PolyMc": {
+    "url": "https://api.github.com/repos/TheEpicBlock/PolyMc",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "openrewrite/rewrite-spring": {
+    "url": "https://api.github.com/repos/openrewrite/rewrite-spring",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "openrewrite/rewrite-gradle-plugin": {
+    "url": "https://api.github.com/repos/openrewrite/rewrite-gradle-plugin",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "Guardsquare/proguard-core": {
+    "url": "https://api.github.com/repos/Guardsquare/proguard-core",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "IzzelAliz/Arclight": {
+    "url": "https://api.github.com/repos/IzzelAliz/Arclight",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "NordicSemiconductor/Android-nRF-Connect-Device-Manager": {
+    "url": "https://api.github.com/repos/NordicSemiconductor/Android-nRF-Connect-Device-Manager",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "bernie-g/geckolib": {
+    "url": "https://api.github.com/repos/bernie-g/geckolib",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "team-abnormals/neapolitan": {
+    "url": "https://api.github.com/repos/team-abnormals/neapolitan",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "team-abnormals/blueprint": {
+    "url": "https://api.github.com/repos/team-abnormals/blueprint",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "TerraformersMC/Cinderscapes": {
+    "url": "https://api.github.com/repos/TerraformersMC/Cinderscapes",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "Incendo/Hyperverse": {
+    "url": "https://api.github.com/repos/Incendo/Hyperverse",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "quite/mumla": {
+    "url": "https://api.github.com/repos/quite/mumla",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "jobrunr/jobrunr": {
+    "url": "https://api.github.com/repos/jobrunr/jobrunr",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 10
+  },
+  "GoogleCloudPlatform/healthcare-data-harmonization": {
+    "url": "https://api.github.com/repos/GoogleCloudPlatform/healthcare-data-harmonization",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 3
+  },
+  "datastax/fallout": {
+    "url": "https://api.github.com/repos/datastax/fallout",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": true,
+    "dependenciesCount": 2,
+    "projectCreationDate": "2020-03-31T16:23:37Z",
+    "lockfileCreationDates": {
+      "GRADLE": "2021-06-16T15:02:00Z"
+    },
+    "gap": "more"
+  },
+  "JDKDigital/productive-bees": {
+    "url": "https://api.github.com/repos/JDKDigital/productive-bees",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Legacy-Fabric/fabric": {
+    "url": "https://api.github.com/repos/Legacy-Fabric/fabric",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "sparrowwallet/sparrow": {
+    "url": "https://api.github.com/repos/sparrowwallet/sparrow",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 7
+  },
+  "DevNatan/inventory-framework": {
+    "url": "https://api.github.com/repos/DevNatan/inventory-framework",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "SammySemicolon/Malum-Mod": {
+    "url": "https://api.github.com/repos/SammySemicolon/Malum-Mod",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "TelepathicGrunt/RepurposedStructures": {
+    "url": "https://api.github.com/repos/TelepathicGrunt/RepurposedStructures",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "spring-projects/spring-authorization-server": {
+    "url": "https://api.github.com/repos/spring-projects/spring-authorization-server",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "GoogleCloudPlatform/opentelemetry-operations-java": {
+    "url": "https://api.github.com/repos/GoogleCloudPlatform/opentelemetry-operations-java",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "RosettaDrone/rosettadrone": {
+    "url": "https://api.github.com/repos/RosettaDrone/rosettadrone",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "runejs/refactored-client-435": {
+    "url": "https://api.github.com/repos/runejs/refactored-client-435",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Consensys/web3signer": {
+    "url": "https://api.github.com/repos/Consensys/web3signer",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "ballerina-platform/ballerina-update-tool": {
+    "url": "https://api.github.com/repos/ballerina-platform/ballerina-update-tool",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 6
+  },
+  "Rosemoe/sora-editor": {
+    "url": "https://api.github.com/repos/Rosemoe/sora-editor",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "Hex27/TerraformGenerator": {
+    "url": "https://api.github.com/repos/Hex27/TerraformGenerator",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "meilisearch/meilisearch-java": {
+    "url": "https://api.github.com/repos/meilisearch/meilisearch-java",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 16
+  },
+  "CaffeineMC/sodium": {
+    "url": "https://api.github.com/repos/CaffeineMC/sodium",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "camunda-community-hub/micronaut-camunda-platform-7": {
+    "url": "https://api.github.com/repos/camunda-community-hub/micronaut-camunda-platform-7",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "linkedin/coral": {
+    "url": "https://api.github.com/repos/linkedin/coral",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "Crazy-Marvin/Flashy": {
+    "url": "https://api.github.com/repos/Crazy-Marvin/Flashy",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "team-abnormals/atmospheric": {
+    "url": "https://api.github.com/repos/team-abnormals/atmospheric",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "sonatype-nexus-community/scan-gradle-plugin": {
+    "url": "https://api.github.com/repos/sonatype-nexus-community/scan-gradle-plugin",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 8
+  },
+  "emanuele-f/PCAPdroid": {
+    "url": "https://api.github.com/repos/emanuele-f/PCAPdroid",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "supertokens/supertokens-core": {
+    "url": "https://api.github.com/repos/supertokens/supertokens-core",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 23
+  },
+  "SpaiR/imgui-java": {
+    "url": "https://api.github.com/repos/SpaiR/imgui-java",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "MrCrayfish/Backpacked": {
+    "url": "https://api.github.com/repos/MrCrayfish/Backpacked",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "jbangdev/jbang": {
+    "url": "https://api.github.com/repos/jbangdev/jbang",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 20
+  },
+  "dillydill123/inventory-setups": {
+    "url": "https://api.github.com/repos/dillydill123/inventory-setups",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 8
+  },
+  "team-abnormals/buzzier-bees": {
+    "url": "https://api.github.com/repos/team-abnormals/buzzier-bees",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "markusfisch/PieLauncher": {
+    "url": "https://api.github.com/repos/markusfisch/PieLauncher",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "quek04/undergarden": {
+    "url": "https://api.github.com/repos/quek04/undergarden",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "Darkhax-Minecraft/BotanyPots": {
+    "url": "https://api.github.com/repos/Darkhax-Minecraft/BotanyPots",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "bancolombia/scaffold-clean-architecture": {
+    "url": "https://api.github.com/repos/bancolombia/scaffold-clean-architecture",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 10
+  },
+  "CaffeineMC/lithium": {
+    "url": "https://api.github.com/repos/CaffeineMC/lithium",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "GeyserMC/Floodgate": {
+    "url": "https://api.github.com/repos/GeyserMC/Floodgate",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "FTBTeam/FTB-Library": {
+    "url": "https://api.github.com/repos/FTBTeam/FTB-Library",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "qa-guru/allure-notifications": {
+    "url": "https://api.github.com/repos/qa-guru/allure-notifications",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "SubhamTyagi/android-ocr": {
+    "url": "https://api.github.com/repos/SubhamTyagi/android-ocr",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "TrackerControl/tracker-control-android": {
+    "url": "https://api.github.com/repos/TrackerControl/tracker-control-android",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  },
+  "IntellectualSites/fastasyncvoxelsniper": {
+    "url": "https://api.github.com/repos/IntellectualSites/fastasyncvoxelsniper",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 15
+  },
+  "maplibre/maplibre-navigation-android": {
+    "url": "https://api.github.com/repos/maplibre/maplibre-navigation-android",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "RakambdaOrg/FallingTree": {
+    "url": "https://api.github.com/repos/RakambdaOrg/FallingTree",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 2
+  },
+  "temporalio/sdk-java": {
+    "url": "https://api.github.com/repos/temporalio/sdk-java",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "temporalio/samples-java": {
+    "url": "https://api.github.com/repos/temporalio/samples-java",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "redhat-developer/intellij-quarkus": {
+    "url": "https://api.github.com/repos/redhat-developer/intellij-quarkus",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 4
+  },
+  "gluonhq/substrate": {
+    "url": "https://api.github.com/repos/gluonhq/substrate",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 8
+  },
+  "palantir/palantir-java-format": {
+    "url": "https://api.github.com/repos/palantir/palantir-java-format",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 15
+  },
+  "openziti/ziti-sdk-jvm": {
+    "url": "https://api.github.com/repos/openziti/ziti-sdk-jvm",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": "workspaces"
+  },
+  "glencoesoftware/bioformats2raw": {
+    "url": "https://api.github.com/repos/glencoesoftware/bioformats2raw",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 15
+  },
+  "Aiven-Open/http-connector-for-apache-kafka": {
+    "url": "https://api.github.com/repos/Aiven-Open/http-connector-for-apache-kafka",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 36
+  },
+  "Yelp/nrtsearch": {
+    "url": "https://api.github.com/repos/Yelp/nrtsearch",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 47
+  },
+  "DeNA/PacketProxy": {
+    "url": "https://api.github.com/repos/DeNA/PacketProxy",
+    "projectType": [
+      "GRADLE"
+    ],
+    "lockfileExists": false,
+    "dependenciesCount": 1
+  }
+}

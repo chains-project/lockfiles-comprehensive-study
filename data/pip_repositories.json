@@ -1,0 +1,367 @@
+{
+    "JuanBindez/pytubefix": {
+        "url": "https://api.github.com/repos/JuanBindez/pytubefix",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 33,
+        "projectCreationDate": "2023-09-21T15:04:09Z",
+        "lockfileCreationDates": {
+            "PIP": "2023-09-21T18:06:09Z"
+        },
+        "gap": "less"
+    },
+    "h2oai/h2o-llmstudio": {
+        "url": "https://api.github.com/repos/h2oai/h2o-llmstudio",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 59,
+        "projectCreationDate": "2023-04-17T17:56:33Z",
+        "lockfileCreationDates": {
+            "PIP": "2023-04-18T12:28:26Z"
+        },
+        "gap": "less"
+    },
+    "grafana/grafana-ansible-collection": {
+        "url": "https://api.github.com/repos/grafana/grafana-ansible-collection",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 3,
+        "projectCreationDate": "2022-08-01T05:45:40Z",
+        "lockfileCreationDates": {
+            "PIP": "2023-03-03T08:53:02Z"
+        },
+        "gap": "more"
+    },
+    "spdx/ntia-conformance-checker": {
+        "url": "https://api.github.com/repos/spdx/ntia-conformance-checker",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 1,
+        "projectCreationDate": "2022-07-18T21:32:45Z",
+        "lockfileCreationDates": {
+            "PIP": "2022-07-18T22:06:00Z"
+        },
+        "gap": "less"
+    },
+    "Drazzilb08/daps": {
+        "url": "https://api.github.com/repos/Drazzilb08/daps",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 10,
+        "projectCreationDate": "2022-07-08T01:34:41Z",
+        "lockfileCreationDates": {
+            "PIP": "2024-01-31T05:23:22Z"
+        },
+        "gap": "more"
+    },
+    "repository-service-tuf/repository-service-tuf": {
+        "url": "https://api.github.com/repos/repository-service-tuf/repository-service-tuf",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 19,
+        "projectCreationDate": "2022-04-01T07:01:39Z",
+        "lockfileCreationDates": {
+            "PIP": "2022-09-05T21:29:51Z"
+        },
+        "gap": "less"
+    },
+    "d3fend/d3fend-ontology": {
+        "url": "https://api.github.com/repos/d3fend/d3fend-ontology",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 5,
+        "projectCreationDate": "2022-02-10T18:04:46Z",
+        "lockfileCreationDates": {
+            "PIP": "2022-03-16T21:39:53Z"
+        },
+        "gap": "less"
+    },
+    "decompiler-explorer/decompiler-explorer": {
+        "url": "https://api.github.com/repos/decompiler-explorer/decompiler-explorer",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 7,
+        "projectCreationDate": "2021-10-25T21:52:06Z",
+        "lockfileCreationDates": {
+            "PIP": "2022-04-25T18:33:21Z"
+        },
+        "gap": "more"
+    },
+    "cloudwithax/pomice": {
+        "url": "https://api.github.com/repos/cloudwithax/pomice",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": false,
+        "dependenciesCount": 9,
+        "projectCreationDate": "2021-09-25T17:39:13Z",
+        "lockfileCreationDates": {}
+    },
+    "GoogleCloudPlatform/gcpdiag": {
+        "url": "https://api.github.com/repos/GoogleCloudPlatform/gcpdiag",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 36,
+        "projectCreationDate": "2021-07-19T15:38:27Z",
+        "lockfileCreationDates": {
+            "PIP": "2021-07-23T14:50:22Z"
+        },
+        "gap": "less"
+    },
+    "StackGuardian/tirith": {
+        "url": "https://api.github.com/repos/StackGuardian/tirith",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 5,
+        "projectCreationDate": "2021-04-21T19:02:06Z",
+        "lockfileCreationDates": {
+            "PIP": "2021-11-04T21:11:18Z"
+        },
+        "gap": "more"
+    },
+    "thingsapi/things.py": {
+        "url": "https://api.github.com/repos/thingsapi/things.py",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 13,
+        "projectCreationDate": "2021-03-23T08:38:49Z",
+        "lockfileCreationDates": {
+            "PIP": "2021-04-10T16:26:55Z"
+        },
+        "gap": "less"
+    },
+    "typesense/typesense-docsearch-scraper": {
+        "url": "https://api.github.com/repos/typesense/typesense-docsearch-scraper",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 15,
+        "projectCreationDate": "2021-01-05T20:44:09Z",
+        "lockfileCreationDates": {
+            "PIP": "2018-11-16T11:01:21Z"
+        },
+        "gap": "less"
+    },
+    "meeb/tubesync": {
+        "url": "https://api.github.com/repos/meeb/tubesync",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": false,
+        "dependenciesCount": 3,
+        "projectCreationDate": "2020-11-22T06:33:42Z",
+        "lockfileCreationDates": {}
+    },
+    "chiefonboarding/ChiefOnboarding": {
+        "url": "https://api.github.com/repos/chiefonboarding/ChiefOnboarding",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 28,
+        "projectCreationDate": "2020-07-13T14:56:55Z",
+        "lockfileCreationDates": {
+            "PIP": "2022-07-08T01:36:24Z"
+        },
+        "gap": "more"
+    },
+    "BerkeleyHCI/PolymorphicBlocks": {
+        "url": "https://api.github.com/repos/BerkeleyHCI/PolymorphicBlocks",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": false,
+        "dependenciesCount": 4,
+        "projectCreationDate": "2020-07-09T21:14:22Z",
+        "lockfileCreationDates": {}
+    },
+    "creativecommons/cc-legal-tools-app": {
+        "url": "https://api.github.com/repos/creativecommons/cc-legal-tools-app",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 17,
+        "projectCreationDate": "2020-06-03T18:51:38Z",
+        "lockfileCreationDates": {
+            "PIP": "2021-02-24T23:04:32Z"
+        },
+        "gap": "more"
+    },
+    "google/ml-compiler-opt": {
+        "url": "https://api.github.com/repos/google/ml-compiler-opt",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 11,
+        "projectCreationDate": "2020-05-28T23:32:39Z",
+        "lockfileCreationDates": {
+            "PIP": "2022-12-15T20:56:50Z"
+        },
+        "gap": "more"
+    },
+    "scito/extract_otp_secrets": {
+        "url": "https://api.github.com/repos/scito/extract_otp_secrets",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 20,
+        "projectCreationDate": "2020-05-23T06:54:08Z",
+        "lockfileCreationDates": {
+            "PIP": "2022-09-03T17:05:30Z"
+        },
+        "gap": "more"
+    },
+    "SeisoLLC/easy_infra": {
+        "url": "https://api.github.com/repos/SeisoLLC/easy_infra",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 11,
+        "projectCreationDate": "2020-05-19T20:39:57Z",
+        "lockfileCreationDates": {
+            "PIP": "2021-02-09T13:45:10Z"
+        },
+        "gap": "more"
+    },
+    "NOAA-OWP/inundation-mapping": {
+        "url": "https://api.github.com/repos/NOAA-OWP/inundation-mapping",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 49,
+        "projectCreationDate": "2020-05-14T17:21:09Z",
+        "lockfileCreationDates": {
+            "PIP": "2020-10-27T18:36:03Z"
+        },
+        "gap": "less"
+    },
+    "vas3k/vas3k.club": {
+        "url": "https://api.github.com/repos/vas3k/vas3k.club",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 16,
+        "projectCreationDate": "2020-04-08T20:11:44Z",
+        "lockfileCreationDates": {
+            "PIP": "2020-04-23T21:13:56Z"
+        },
+        "gap": "less"
+    },
+    "zenodo/zenodo-rdm": {
+        "url": "https://api.github.com/repos/zenodo/zenodo-rdm",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 5,
+        "projectCreationDate": "2020-03-17T14:02:25Z",
+        "lockfileCreationDates": {
+            "PIP": "2020-03-24T08:14:02Z"
+        },
+        "gap": "less"
+    },
+    "jackdewinter/pymarkdown": {
+        "url": "https://api.github.com/repos/jackdewinter/pymarkdown",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 31,
+        "projectCreationDate": "2020-01-26T22:54:10Z",
+        "lockfileCreationDates": {
+            "PIP": "2019-11-23T04:36:30Z"
+        },
+        "gap": "less"
+    },
+    "looker-open-source/looker_deployer": {
+        "url": "https://api.github.com/repos/looker-open-source/looker_deployer",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 12,
+        "projectCreationDate": "2020-01-07T17:15:59Z",
+        "lockfileCreationDates": {
+            "PIP": "2019-12-31T04:33:41Z"
+        },
+        "gap": "less"
+    },
+    "vranki/hemppa": {
+        "url": "https://api.github.com/repos/vranki/hemppa",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": false,
+        "dependenciesCount": 32,
+        "projectCreationDate": "2019-12-09T17:43:05Z",
+        "lockfileCreationDates": {}
+    },
+    "alexta69/metube": {
+        "url": "https://api.github.com/repos/alexta69/metube",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 4,
+        "projectCreationDate": "2019-11-29T17:24:51Z",
+        "lockfileCreationDates": {
+            "PIP": "2019-11-29T17:31:34Z"
+        },
+        "gap": "less"
+    },
+    "quark-engine/quark-engine": {
+        "url": "https://api.github.com/repos/quark-engine/quark-engine",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 19,
+        "projectCreationDate": "2019-10-22T01:19:27Z",
+        "lockfileCreationDates": {
+            "PIP": "2019-10-24T02:39:06Z"
+        },
+        "gap": "less"
+    },
+    "panther-labs/panther-analysis": {
+        "url": "https://api.github.com/repos/panther-labs/panther-analysis",
+        "projectType": [
+            "PIP"
+        ],
+        "lockfileExists": true,
+        "dependenciesCount": 15,
+        "projectCreationDate": "2019-10-17T18:47:09Z",
+        "lockfileCreationDates": {
+            "PIP": "2019-10-17T18:57:18Z"
+        },
+        "gap": "less"
+    }
+}
