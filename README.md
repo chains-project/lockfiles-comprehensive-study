@@ -9,13 +9,9 @@ This folder contains quantitative data mined from GitHub repositories, related t
 Each JSON file corresponds to a specific package manager and includes the following information for each mined repository:
 
 - Repository URL
-
 - Approximate number of dependencies
-
 - Project creation date
-
 - Lockfile creation date
-
 - A boolean flag (gap) indicating whether the lockfile was committed within six months of project creation
 
 ## scripts/
@@ -26,7 +22,7 @@ This folder contains the scripts used to mine the lockfiles from GitHub reposito
         - 300 commits
         - 10 contributors
         - 42 stars
-        - 2019-09-30 last creation date
+        - 2019-09-30 as the last creation date
  - filters: Filters out projects that do not specify any dependencies in the dependency configuration file.
     
 The total number of collected projects and resulting projects after the filtering step is given below. 
