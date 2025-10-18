@@ -18,6 +18,25 @@ Each JSON file corresponds to a specific package manager and includes the follow
 
 - A boolean flag (gap) indicating whether the lockfile was committed within six months of project creation
 
+## scripts/
+This folder contains the scripts used to mine the lockfiles from GitHub repositories. It has two sub-folders. 
+
+ - lockfile-miner : Mines GitHub repositories that satisfy the conditions specified in search-config.json and use one of the seven package managers (npm CLI, pnpm, Cargo, Go, Gradle, Pipenv, or Poetry). It also checks whether a corresponding lockfile exists in each repository.
+      - The default conditions are: 
+        - 300 commits
+        - 10 contributors
+        - 42 stars
+        - 2019-09-30 last creation date
+ - filters: Filters out projects that do not specify any dependencies in the dependency configuration file.
+    
+The total number of collected projects and resulting projects after the filtering step is given below. 
+
+|        | npm CLI | pnpm | Cargo | Go | Gradle | Pipenv | Poetry
+| -------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Total # of projects | 1922 | (1922) | 1089 | 1202 | 325 | 29 | 314 |
+| # of projects with at least one dependency | 1916 | (1916) | 1089 | 1188 | 323 | 29 | 314 |
+
+
 ## developer_interviews/
 
 This directory contains materials related to our qualitative interviews with developers:
@@ -26,7 +45,7 @@ This directory contains materials related to our qualitative interviews with dev
 
 - invitation_email.pdf: The email templates used to invite participants.
 
-- transcripts.md: Transcribed and anonymized interview recordings.
+- codebook.xlsx: The codebook.
 
 ## references/
 
