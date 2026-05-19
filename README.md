@@ -1,6 +1,18 @@
 # Lockfiles Across Package Managers
 
-This repository contains all the materials used and produced as part of our study "The Design Space of Lockfiles Across Package Managers".
+This repository contains all the materials used and produced as part of our study "[The Design Space of Lockfiles Across Package Managers](http://arxiv.org/pdf/2505.04834)".
+
+```bibtex
+@article{2505.04834,
+ title = {The Design Space of Lockfiles Across Package Managers},
+ journal = {Springer Empirical Software Engineering},
+ year = {2026},
+ doi = {10.1007/s10664-025-10789-w},
+ author = {Yogya Gamage and Deepika Tiwari and Martin Monperrus and Benoit Baudry},
+ url = {http://arxiv.org/pdf/2505.04834},
+}
+```
+
 
 
 ## data/
